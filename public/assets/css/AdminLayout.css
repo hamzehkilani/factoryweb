@@ -1,0 +1,43 @@
+.modal-backdrop.fade.show {
+    display: none;
+}
+.alert.alert-success {
+    background: #399d3999;
+    width: fit-content;
+    margin: auto;
+    color: white;
+    margin-bottom: 13px;
+}
+
+.alert-danger{
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 13px;
+}
+  button.btn.createbtn {
+    background: linear-gradient(45deg, #0010c6e0, #e66565);
+    color: white;
+}
+button.btn-close {
+    background: black;
+    text-align: center;
+    color: white;
+}
+button.btn-close:hover {
+    background: rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.createheadermedia{
+    width: 66px;
+}
+.container-fluid.px-4 {
+    padding-top: 40px;
+}
+.collapse {
+     visibility: unset !important;
+}
+body.sb-nav-fixed.modal-open {
+    overflow: unset !important;
+    padding-right: 14px;
+}
